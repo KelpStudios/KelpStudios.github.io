@@ -1,2 +1,2 @@
 # KelpStudios.github.io
-the mc guy
+The mc guy
